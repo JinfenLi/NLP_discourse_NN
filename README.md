@@ -17,7 +17,7 @@ Due to the licence of RST data corpus, we can't include the data in our project 
 
     please check [https://github.com/JinfenLi/NLP_discourse_ML](https://github.com/JinfenLi/NLP_discourse_ML) for preprocessing
     
-3. run main.py to train and predict
+3. run NN/main.py to train and predict
 
 ### Requirements:
 
